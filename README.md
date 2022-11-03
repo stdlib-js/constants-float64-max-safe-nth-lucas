@@ -33,7 +33,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@esm/index.mjs';
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.0.8-esm/index.mjs';
 ```
 
 #### FLOAT64_MAX_SAFE_NTH_LUCAS
@@ -65,7 +65,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_LUCAS === 76 );
 <body>
 <script type="module">
 
-import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@esm/index.mjs';
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.0.8-esm/index.mjs';
 
 var v;
 var i;
