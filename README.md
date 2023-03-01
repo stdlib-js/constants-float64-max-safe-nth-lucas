@@ -176,8 +176,8 @@ Macro for the maximum [safe][safe-integers] nth [Lucas number][lucas-number] whe
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/max-safe-lucas`][@stdlib/constants/float64/max-safe-lucas]</span><span class="delimiter">: </span><span class="description">maximum safe Lucas number when stored in double-precision floating-point format.</span>
--   <span class="package-name">[`@stdlib/constants/float64/max-safe-nth-fibonacci`][@stdlib/constants/float64/max-safe-nth-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe nth Fibonacci number when stored in double-precision floating-point format.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-safe-lucas`][@stdlib/constants/float64/max-safe-lucas]</span><span class="delimiter">: </span><span class="description">maximum safe Lucas number when stored in double-precision floating-point format.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/max-safe-nth-fibonacci`][@stdlib/constants/float64/max-safe-nth-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe nth Fibonacci number when stored in double-precision floating-point format.</span>
 
 </section>
 
