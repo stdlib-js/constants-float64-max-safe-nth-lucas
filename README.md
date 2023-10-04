@@ -44,6 +44,11 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants-float64-max-safe-nth-lucas/tags). For example,
+
+```javascript
 import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.1.1-esm/index.mjs';
 ```
 
@@ -76,7 +81,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_LUCAS === 76 );
 <body>
 <script type="module">
 
-import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.1.1-esm/index.mjs';
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@esm/index.mjs';
 
 var v;
 var i;
