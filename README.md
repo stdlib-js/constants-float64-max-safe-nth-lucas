@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.2.2-deno/mod.js';
 ```
 
 #### FLOAT64_MAX_SAFE_NTH_LUCAS
@@ -71,7 +71,7 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_LUCAS === 76 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@deno/mod.js';
+import FLOAT64_MAX_SAFE_NTH_LUCAS from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-max-safe-nth-lucas@v0.2.2-deno/mod.js';
 
 var v;
 var i;
